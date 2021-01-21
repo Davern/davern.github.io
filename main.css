@@ -63,6 +63,22 @@ nav ul {
 	display: inline;
 }
 
+.social-media-links {
+	float: right;
+	position: relative;
+	margin-right: 30px;
+}
+
+.social-media-links ul {
+	display: inline;
+}
+
+.social-media-links li {
+	display: inline;
+	margin: 0;
+	padding: 0 10px;
+}
+
 .contact-btn {
 	float: right;
 }
