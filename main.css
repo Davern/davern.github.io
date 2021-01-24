@@ -8,7 +8,7 @@ html, body {
 
 body {
 	font-family: 'Lato', sans-serif;
-	background-image: url('https://content.codecademy.com/projects/make-a-website/lesson-3/background.jpg');
+	background-image: url('cesar-couto-pC2xOplxsVs-unsplash.jpg');
 	background-position: center top;
 	background-size: cover;
 	margin: 0;
@@ -22,14 +22,14 @@ a {
 .page-title {
 	text-align: center;
 	  font-weight: 100;
-	  font-size: 54px;
+	  font-size: 48px;
 }
 
 .page-description {
-	border: 1px solid #000;
   	margin: 2px;
   	text-align: center;
-  	padding: 30px;
+	padding: 15px;
+	font-size: 16px;
 }
 
 nav {
@@ -50,9 +50,8 @@ nav ul {
 }
 
 .social-media-links {
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: center;
+	text-align: center;
+	padding-right: 35px;
 }
 
 .social-media-links ul {
@@ -61,7 +60,6 @@ nav ul {
 
 .social-media-links li {
 	display: inline;
-	margin: 0;
 	padding: 0 10px;
 }
 .headshot {
@@ -71,12 +69,15 @@ nav ul {
 	display: flex;
 	margin-right: auto;
 	margin-left: auto;
-	padding-top: 10px;
+}
+
+.cropped {
+	padding-top: 100px;
 }
 
 nav a {
 	height: 60px;
   	line-height: 60px;
-	color: #204156;
+	color: #000000;
 	text-decoration: none;
 }
