@@ -29,7 +29,40 @@ a {
   	margin: 2px;
   	text-align: center;
 	padding: 15px;
-	font-size: 16px;
+	font-size: 20px;
+}
+
+.About {
+	margin: 2px;
+	padding-left: 150px;
+	padding-right: 150px;
+	padding-bottom: 75px;
+	font-size: 18px;
+}
+
+.about-title {
+	margin: 2px;
+	font-size: 20px;
+	padding-left: 150px;
+	padding-top: 100px;
+}
+
+.projects {
+	padding-top: 100px;
+}
+
+.project-title {
+	margin: 2px;
+	font-size: 20px;
+	padding-left: 150px;
+}
+
+.project-description {
+	margin: 2px;
+	font-size: 18px;
+	padding-right: 150px;
+	padding-left: 150px;
+	padding-bottom: 75px;
 }
 
 nav {
